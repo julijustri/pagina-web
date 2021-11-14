@@ -1,2 +1,2 @@
 # pagina-web
-Curso de git
+Curso de git de jero
